@@ -1,7 +1,5 @@
 
 
-<img align="right" alt="Coding" width="400" src="add your link 
-  here">
 [![mafaldasalomao's GitHub stats](https://github-readme-stats.vercel.app/api?username=mafaldasalomao&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
