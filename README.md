@@ -6,10 +6,12 @@ Profile Salomão Machado Mafalda
 - 📚 Amante de backend  ...
 - 📈 Espero colaborar com meus projetos🤗🚀 ....
 
+
+[![mafaldasalomao's GitHub stats](https://github-readme-stats.vercel.app/api?username=mafaldasalomao&show_icons=true&theme=radical)]https://github.com/anuraghazra/github-readme-stats)
 <div align="center">
  
   <a href="https://github.com/mafaldasalomao">
-  [![mafaldasalomao's GitHub stats](https://github-readme-stats.vercel.app/api?username=mafaldasalomao&show_icons=true&theme=radical)]        (https://github.com/anuraghazra/github-readme-stats)
+  
     
 </div>
 
@@ -30,8 +32,8 @@ Profile Salomão Machado Mafalda
 
 
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mafaldasalomao)](https://git.io/streak-stats)
+ 
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mafaldasalomao)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mafaldasalomao)](https://github.com/anuraghazra/github-readme-stats)
 
