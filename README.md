@@ -1,5 +1,5 @@
 
-Profile Salomão Machado Mafalda
+##Profile Salomão Machado Mafalda
 
 - 👨‍🎓 Graduação em Sistemas de informação UFAC &  Mestre em Ciência da Computação UFAC.
 - 👨‍💻 Desenvolvedor, Analista e pesquisador  ...
@@ -57,10 +57,10 @@ Profile Salomão Machado Mafalda
  <img align="center" alt="mafaldasalomao-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
  <img align="center" alt="mafaldasalomao-opengl" height="30" width="40" src="https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl">
  <img align="center" alt="mafaldasalomao-mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
- <img width="300" src="https://lh4.googleusercontent.com/-xdGTklY01qA/UiF8b20d2-I/AAAAAAAAdKM/5yw8RNCw3TM/w400-h300-no/cafe-quentinho.gif" align="right">
+
   
 </div>
-  
+   <img width="150" src="https://media2.giphy.com/media/SXxI9NlwvYiY3bRsck/200w.webp?cid=ecf05e475ew9xxmxsidi49t4vmpe0jw8alz11ozdqa8pxc1d&rid=200w.webp&ct=g" align="right">
    ##
 
 Possui graduação em Sistemas de Informação pela Universidade Federal do Acre (2019), atualmente mestrando em Ciência da Computação. Tem experiência na área de Ciência da Computação, com ênfase em Sistemas de Informação, atuando principalmente nos seguintes temas: astronomia, virtual e realidade, desenvolvimento web, desenvolvimento de aplicações em geral, Banco de Dados MySQL, Postgres, Redes, Processamento de Imagens, Apis Rest, diversas linguagens de progração como java, javaScript, python, C#, C, C++, HTML5, CSS, PHP, React, React Native, experiência com Amazon AWS. Além de conhecimento em CMS como Joomla, Laravel, WordPrass.
