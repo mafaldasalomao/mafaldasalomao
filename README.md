@@ -57,7 +57,7 @@
   
 </div>
    <img width="150" src="https://media2.giphy.com/media/SXxI9NlwvYiY3bRsck/200w.webp?cid=ecf05e475ew9xxmxsidi49t4vmpe0jw8alz11ozdqa8pxc1d&rid=200w.webp&ct=g" align="right">
-   ##
+   ###
 
 Possui graduação em Sistemas de Informação pela Universidade Federal do Acre (2019), atualmente mestrando em Ciência da Computação. Tem experiência na área de Ciência da Computação, com ênfase em Sistemas de Informação, atuando principalmente nos seguintes temas: astronomia, virtual e realidade, desenvolvimento web, desenvolvimento de aplicações em geral, Banco de Dados MySQL, Postgres, Redes, Processamento de Imagens, Apis Rest, diversas linguagens de progração como java, javaScript, python, C#, C, C++, HTML5, CSS, PHP, React, React Native, experiência com Amazon AWS. Além de conhecimento em CMS como Joomla, Laravel, WordPrass.
 .
