@@ -2,13 +2,11 @@
 
 <img align="right" alt="Coding" width="400" src="add your link 
   here">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mafaldasalomao&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![mafaldasalomao's GitHub stats](https://github-readme-stats.vercel.app/api?username=mafaldasalomao&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mafaldasalomao&show_icons=true&theme=radical)
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mafaldasalomao)](https://git.io/streak-stats)
+[![mafaldasalomao's GitHub  Streak](https://github-readme-streak-stats.herokuapp.com/?user=mafaldasalomao)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
