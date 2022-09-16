@@ -7,12 +7,13 @@ Profile Salomão Machado Mafalda
 - 📈 Espero colaborar com meus projetos🤗🚀 ....
 
 
-[![mafaldasalomao's GitHub stats](https://github-readme-stats.vercel.app/api?username=mafaldasalomao&show_icons=true&theme=radical)]https://github.com/anuraghazra/github-readme-stats)
+
 <div align="center">
  
-  <a href="https://github.com/mafaldasalomao">
+  <a href="https://github.com/mafaldasalomao"/>
   
-    
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mafaldasalomao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mafaldasalomao&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -30,12 +31,20 @@ Profile Salomão Machado Mafalda
   
    ##
 
-
+Possui graduação em Sistemas de Informação pela Universidade Federal do Acre (2019), atualmente mestrando em Ciência da Computação. Tem experiência na área de Ciência da Computação, com ênfase em Sistemas de Informação, atuando principalmente nos seguintes temas: astronomia, virtual e realidade, desenvolvimento web, desenvolvimento de aplicações em geral, Banco de Dados MySQL, Postgres, Redes, Processamento de Imagens, Apis Rest, diversas linguagens de progração como java, javaScript, python, C#, C, C++, HTML5, CSS, PHP, React, React Native, experiência com Amazon AWS. Além de conhecimento em CMS como Joomla, Laravel, WordPrass.
+.
+.
+.
+<div align="center">
+ 
+  <a href="https://github.com/mafaldasalomao"/>
+ 
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mafaldasalomao"/>
+</div>
 
  
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mafaldasalomao)](https://git.io/streak-stats)
+ [![GitHub Streak]()](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mafaldasalomao)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
