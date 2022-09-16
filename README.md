@@ -1,5 +1,5 @@
 
-##Profile Salomão Machado Mafalda
+## Profile Salomão Machado Mafalda ##
 
 - 👨‍🎓 Graduação em Sistemas de informação UFAC &  Mestre em Ciência da Computação UFAC.
 - 👨‍💻 Desenvolvedor, Analista e pesquisador  ...
