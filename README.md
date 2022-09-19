@@ -1,13 +1,13 @@
 
 ## Profile Salomão Machado Mafalda ##
 
-- 👨‍🎓 Graduação em Sistemas de informação UFAC &  Mestre em Ciência da Computação UFAC.
-- 👨‍💻 Desenvolvedor, Analista e pesquisador  ...
-- 📚 Amante de backend  ...
-- 📈 Espero colaborar com meus projetos🤗🚀 ....
-- Endereço para acessar CV: http://lattes.cnpq.br/5922997259214921 ✌️✌️
+- 👨‍🎓 Graduation in Information Systems UFAC & Master in Computer Science UFAC...
+- 👨‍💻 Developer, Analyst and Researcher  ...
+- 📚 Backend lover  ...
+- 📈 I hope to collaborate with mine and your projects🤗🚀 ....
+- Address to access CV: http://lattes.cnpq.br/5922997259214921 ✌️✌️
 - ID Lattes: 5922997259214921
-- 🌟 Última atualização do currículo em 19/07/2022 🌟
+- 🌟 Curriculum last updated on 19/07/2022 🌟
 
 
 
@@ -59,7 +59,7 @@
    <img width="150" src="https://media2.giphy.com/media/SXxI9NlwvYiY3bRsck/200w.webp?cid=ecf05e475ew9xxmxsidi49t4vmpe0jw8alz11ozdqa8pxc1d&rid=200w.webp&ct=g" align="right">
    ###
 
-Possui graduação em Sistemas de Informação pela Universidade Federal do Acre (2019), atualmente mestrando em Ciência da Computação. Tem experiência na área de Ciência da Computação, com ênfase em Sistemas de Informação, atuando principalmente nos seguintes temas: astronomia, virtual e realidade, desenvolvimento web, desenvolvimento de aplicações em geral, Banco de Dados MySQL, Postgres, Redes, Processamento de Imagens, Apis Rest, diversas linguagens de progração como java, javaScript, python, C#, C, C++, HTML5, CSS, PHP, React, React Native, experiência com Amazon AWS. Além de conhecimento em CMS como Joomla, Laravel, WordPrass.
+Graduated in Information Systems from the Federal University of Acre (2019), currently studying for a Masters in Computer Science. Has experience in Computer Science, with emphasis on Information Systems, working mainly on the following topics: astronomy, virtual and reality, web development, application development in general, MySQL Database, Postgres, Networks, Image Processing, Apis Rest, several programming languages such as java, javaScript, python, C#, C, C++, HTML5, CSS, PHP, React, React Native, experience with Amazon AWS. In addition to knowledge in CMS like Joomla, Laravel, WordPrass.
 .
 .
 .
