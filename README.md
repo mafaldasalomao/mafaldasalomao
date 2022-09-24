@@ -68,7 +68,6 @@ Graduated in Information Systems from the Federal University of Acre (2019), cur
 <div align="center">
  
  <a href="https://github.com/mafaldasalomao"></a>
- 
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mafaldasalomao"/>
 </div>
 
