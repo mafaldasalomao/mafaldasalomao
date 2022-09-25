@@ -58,16 +58,14 @@
 </div>
    <img width="150" src="https://media2.giphy.com/media/SXxI9NlwvYiY3bRsck/200w.webp?cid=ecf05e475ew9xxmxsidi49t4vmpe0jw8alz11ozdqa8pxc1d&rid=200w.webp&ct=g" align="right">
   
-  
-  # More...
-   
+
    
 
 Graduated in Information Systems from the Federal University of Acre (2019), currently studying for a Masters in Computer Science. Has experience in Computer Science, with emphasis on Information Systems, working mainly on the following topics: astronomy, virtual and reality, web development, application development in general, MySQL Database, Postgres, Networks, Image Processing, Apis Rest, several programming languages such as java, javaScript, python, C#, C, C++, HTML5, CSS, PHP, React, React Native, experience with Amazon AWS. In addition to knowledge in CMS like Joomla, Laravel, WordPrass.
 .
 .
 .
-<div align="center">
+<div align="center" >
  
  <a href="https://github.com/mafaldasalomao"></a>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mafaldasalomao"/>
