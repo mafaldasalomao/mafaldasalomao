@@ -9,17 +9,28 @@
 - ID Lattes: 5922997259214921
 - 🌟 Curriculum last updated on 19/07/2022 🌟
 
-
-
-
-<div align="center">
+  
+## More About ...
+<div>
+ <p>Graduated in Information Systems from the Federal University of Acre (2019), currently studying for a Masters in Computer Science. Has experience in Computer Science, with emphasis on Information Systems, working mainly on the following topics: astronomy, virtual and reality, web development, application development in general, MySQL Database, Postgres, Networks, Image Processing, Apis Rest, several programming languages such as java, javaScript, python, C#, C, C++, HTML5, CSS, PHP, React, React Native, experience with Amazon AWS. In addition to knowledge in CMS like Joomla, Laravel, WordPrass.
+ </p>
+ </div>
+ 
+ ## Stats's salomaomafalda
+ <div align="center">
  
   <a href="https://github.com/mafaldasalomao"> 
   
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mafaldasalomao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mafaldasalomao&layout=compact&langs_count=7&theme=dark"/>
+   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mafaldasalomao"/>
    </a>
 </div>
+
+
+ ## Some tools & languages
+ 
+
 
 <div style="display: inline_block"><br>
  <img align="center" alt="mafaldasalomao-net" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
@@ -53,29 +64,7 @@
  <img align="center" alt="mafaldasalomao-mysql"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
  <img align="center" alt="mafaldasalomao-opengl" src="https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl">
  <img align="center" alt="mafaldasalomao-mongodb"   height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-
-
-<br>
-<br>
-<br>
-  
 </div>
-
-## MORE...
-Graduated in Information Systems from the Federal University of Acre (2019), currently studying for a Masters in Computer Science. Has experience in Computer Science, with emphasis on Information Systems, working mainly on the following topics: astronomy, virtual and reality, web development, application development in general, MySQL Database, Postgres, Networks, Image Processing, Apis Rest, several programming languages such as java, javaScript, python, C#, C, C++, HTML5, CSS, PHP, React, React Native, experience with Amazon AWS. In addition to knowledge in CMS like Joomla, Laravel, WordPrass.
- <img width="150" src="https://media2.giphy.com/media/SXxI9NlwvYiY3bRsck/200w.webp?cid=ecf05e475ew9xxmxsidi49t4vmpe0jw8alz11ozdqa8pxc1d&rid=200w.webp&ct=g" align="right">
- 
- 
- 
- # Stats
- <div align="rigth" >
-  <a href="https://github.com/mafaldasalomao"></a>
-   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mafaldasalomao"/>
- </div>
-
-
- 
-
 
 
 
