@@ -16,7 +16,7 @@
  </p>
  </div>
  
- ## Stats's salomaomafalda
+ ## Stats's mafaldasalomao
  <div align="center">
  
   <a href="https://github.com/mafaldasalomao"> 
