@@ -5,8 +5,8 @@
 - 👨‍💻 Developer, Analyst and Researcher  ...
 - 📚 Backend lover  ...
 - 📈 I hope to collaborate with mine and your projects🤗🚀 ....
-- Address to access CV: http://lattes.cnpq.br/5922997259214921 ✌️✌️
-- ID Lattes: 5922997259214921
+- :blue_book: Address to access CV: http://lattes.cnpq.br/5922997259214921 ✌️✌️
+- :newspaper: ID Lattes: 5922997259214921
 - 🌟 Curriculum last updated on 19/07/2022 🌟
 
   
