@@ -83,6 +83,11 @@
 <div>
 <img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" align="center">
 </div>
+<br>
+<div>
+<img src="https://resenhadeontem.files.wordpress.com/2016/07/headbreak1.gif?w=150&zoom=2" align="center"/>
+</div>
+<br>
 </div>
 
 <div align="center">
