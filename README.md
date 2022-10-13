@@ -84,7 +84,8 @@
 </div>
 <br>
 <div>
-<img src="https://resenhadeontem.files.wordpress.com/2016/07/headbreak1.gif?w=150&zoom=2" align="center"/>
+<img src="https://resenhadeontem.files.wordpress.com/2016/07/headbreak1.gif?w=150&zoom=2" height="128"  align="center"/>
+<img src="https://repository-images.githubusercontent.com/301573344/43d44d72-0463-4109-b614-72bea18fd17e" alt="hit counter" height="128" align="center">
 </div>
 <br>
 </div>
@@ -92,7 +93,9 @@
 <div align="center">
 <p></p>
 <img src="https://profile-counter.glitch.me/mafaldasalomao/count.svg" alt="hit counter" align="center">
+
 </div>
+
 
 <div align="center">
 <img src="https://github.com/fnky/fnky/raw/fnky/img/ie.jpg" alt="Best viewed with Microsoft Internet Explorer" align="center" width="128">
