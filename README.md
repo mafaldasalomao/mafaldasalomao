@@ -61,7 +61,6 @@
  <img align="center" alt="mafaldasalomao-CSS"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="mafaldasalomao-mysql"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
  <img align="center" alt="mafaldasalomao-opengl" src="https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl">
- <img align="center" alt="mafaldasalomao-mongodb"   height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 </div>
 
 
