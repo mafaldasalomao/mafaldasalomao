@@ -9,7 +9,6 @@
 - :newspaper: ID Lattes: 5922997259214921
 - 🌟 Curriculum last updated on 19/07/2022 🌟
 
-  
 ## More About ...
 <div>
  <p>Graduated in Information Systems from the Federal University of Acre (2019), currently studying for a Masters in Computer Science. Has experience in Computer Science, with emphasis on Information Systems, working mainly on the following topics: astronomy, virtual and reality, web development, application development in general, MySQL Database, Postgres, Networks, Image Processing, Apis Rest, several programming languages such as java, javaScript, python, C#, C, C++, HTML5, CSS, PHP, React, React Native, experience with Amazon AWS. In addition to knowledge in CMS like Joomla, Laravel, WordPrass.
