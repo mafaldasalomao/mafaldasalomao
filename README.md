@@ -26,8 +26,6 @@
 </div>
 
  ## Some tools & languages
- 
-
 <div style="display: inline_block"><br>
  <img align="center" alt="mafaldasalomao-net" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
  <img align="center" alt="mafaldasalomao-ang" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
