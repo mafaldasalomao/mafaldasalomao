@@ -27,7 +27,6 @@
 
  ## Some tools & languages
 <div style="display: inline_block"><br>
- <img align="center" alt="mafaldasalomao-ang" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
  <img align="center" alt="mafaldasalomao-apache" src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white">
  <img align="center" alt="mafaldasalomao-boots"  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
  <img align="center" alt="mafaldasalomao-cmake" src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white">
