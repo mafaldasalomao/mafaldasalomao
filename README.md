@@ -25,27 +25,6 @@
    </a>
 </div>
 
- ## Some tools & languages
-<div style="display: inline_block"><br>
- <img align="center" alt="mafaldasalomao-apache" src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white">
- <img align="center" alt="mafaldasalomao-boots"  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
- <img align="center" alt="mafaldasalomao-cmake" src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white">
- <img align="center" alt="mafaldasalomao-firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
- <img align="center" alt="mafaldasalomao-laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
- <img align="center" alt="mafaldasalomao-material" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white">
- <img align="center" alt="mafaldasalomao-opencv" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white">
- <img align="center" alt="mafaldasalomao-postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
- <img align="center" alt="mafaldasalomao-c"  src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
- <img align="center" alt="mafaldasalomao-python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
- <img align="center" alt="mafaldasalomao-ts"  src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
- <img align="center" alt="mafaldasalomao-rn" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
- <img align="center" alt="mafaldasalomao-arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
- <img align="center" alt="mafaldasalomao-git"  src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
- <img align="center" alt="mafaldasalomao-React"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
- <img align="center" alt="mafaldasalomao-CSS"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-
-
 ## 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
